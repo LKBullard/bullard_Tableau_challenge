@@ -1,6 +1,4 @@
-# bullard_Tableau_challenge
-
-# Citi Bike Analysis - A 
+# Citi Bike Analysis - 
 
 I was tasked to research data and provide conclusions on whether New York would benefit from being instated as a dry - witholding the sale of alcohol. 
 
