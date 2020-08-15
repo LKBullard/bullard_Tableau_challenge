@@ -6,7 +6,7 @@ The first chart here shows us that the number of non-subscribers riding Citi Bik
 
 The geography of these maps is coded in greens by citizen age groups. In the first map, we see the stations whose logged trip durations were in the top 30%. These are visually categorized by size and color. The second map shows us the top 30 starting stations by age group. We see that the longest trip durations are from outlying areas, while most of the shortest trips are grouped inbetween (geographically). This shows us that most cyclists are generally headed towards the middle of NY. Combined with the data showing the top 30 starting stations located primarily in the middle of NY, this tells us that centrally located regions of NY is where the highest concentrations of people can be found. 
 
-# Knowing that Citi Bikes are largely used recreationally, and that that most of the trips are heading to or staying within central NY, we feel that New York would stand to lose a great deal of money by eliminating the sale of alcohol. Instead, we suggest supporting the employment and implementation of more local breweries and wineries to increase revenue.
+## Knowing that Citi Bikes are largely used recreationally, and that that most of the trips are heading to or staying within central NY, we feel that New York would stand to lose a great deal of money by eliminating the sale of alcohol. Instead, we suggest supporting the employment and implementation of more local breweries and wineries to increase revenue.
 
 My data was based on:
 - 8,959,969 records of logged user data for Citi Bike from June 2014- June 2015. 
